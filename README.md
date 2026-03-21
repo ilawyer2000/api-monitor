@@ -1,6 +1,6 @@
 # API Monitor
 
-Automated monitoring for KamberLaw's MCP connector APIs. Checks twice monthly for new endpoints, version changes, and documentation updates across all four connected services.
+Automated monitoring for lawfirm MCP connector APIs. Checks twice monthly for new endpoints, version changes, and documentation updates across all four connected services.
 
 ## What It Monitors
 
