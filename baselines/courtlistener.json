@@ -1,7 +1,7 @@
 {
   "service": "CourtListener",
   "url": "https://www.courtlistener.com/api/rest/v4/",
-  "endpoint_count": 46,
+  "endpoint_count": 47,
   "endpoints": [
     "aba-ratings",
     "agreements",
@@ -42,6 +42,7 @@
     "reimbursements",
     "retention-events",
     "schools",
+    "scrapers/scotus-email",
     "search",
     "sources",
     "spouse-incomes",
@@ -50,7 +51,7 @@
     "visualizations",
     "visualizations/json"
   ],
-  "content_hash": "e3b05f3254f399c8dc5a84570845670999654e2151dca5e844b468732287d6e8",
-  "checked_at": "2026-04-15T15:04:27.854925+00:00",
+  "content_hash": "df34d94e4ab80b17509b4de3835b2c3aef36ad0ff6b0b689cc66eb0f41f73c90",
+  "checked_at": "2026-05-01T14:54:10.175174+00:00",
   "status": "ok"
 }
