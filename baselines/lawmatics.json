@@ -1,9 +1,9 @@
 {
   "service": "Lawmatics",
   "url": "https://docs.lawmatics.com/",
-  "latest_version": "1.21.0",
+  "latest_version": "1.22.0",
   "endpoints_found": 0,
-  "content_hash": "fbb07f3f1b25788138b3d374a97e98f21467aa6a2d6920611c1ef9e1eede0785",
-  "checked_at": "2026-05-15T16:02:37.409120+00:00",
+  "content_hash": "5e144223865f69cd637f3c9faeef7628bdb8543e34705a3ff4c089e236154da0",
+  "checked_at": "2026-06-01T19:19:04.192877+00:00",
   "status": "ok"
 }
