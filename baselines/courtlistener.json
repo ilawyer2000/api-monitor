@@ -1,11 +1,12 @@
 {
   "service": "CourtListener",
   "url": "https://www.courtlistener.com/api/rest/v4/",
-  "endpoint_count": 47,
+  "endpoint_count": 48,
   "endpoints": [
     "aba-ratings",
     "agreements",
     "alerts",
+    "api-usage",
     "attorneys",
     "audio",
     "bankruptcy-information",
@@ -51,7 +52,7 @@
     "visualizations",
     "visualizations/json"
   ],
-  "content_hash": "df34d94e4ab80b17509b4de3835b2c3aef36ad0ff6b0b689cc66eb0f41f73c90",
-  "checked_at": "2026-08-01T14:58:19.894081+00:00",
+  "content_hash": "fad03cf40cc311b5daec1b216337308239685bae8a10152185fb68c7b8221490",
+  "checked_at": "2026-08-15T14:19:03.703751+00:00",
   "status": "ok"
 }
